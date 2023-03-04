@@ -1,0 +1,73 @@
+---Smain_Batter_0D---
+---Smain_Batter_0D---
+Problem: Exp22
+Test:   1
+Velocity: 0.00625  Current: 0.500  Initial_C: 1500
+---Smain_Batter_0D---
+Problem: Exp22
+Test:   2
+Velocity: 0.00417  Current: 0.750  Initial_C: 1500
+---Smain_Batter_0D---
+Problem: Exp22
+Test:   3
+Velocity: 0.00417  Current: 0.750  Initial_C: 1500
+---Smain_Batter_0D---
+Problem: Exp22
+Test:   4
+Velocity: 0.00417  Current: 0.500  Initial_C: 2000
+---Smain_Batter_0D---
+Problem: Exp22
+Test:   5
+Velocity: 0.00417  Current: 0.500  Initial_C: 2000
+---Smain_Batter_0D---
+Problem: Exp22
+Test:   6
+Velocity: 0.00417  Current: 0.690  Initial_C: 2000
+---Smain_Batter_0D---
+Problem: Exp22
+Test:   7
+Velocity: 0.00417  Current: 0.750  Initial_C: 2000
+---Smain_Batter_0D---
+Problem: Exp22
+Test:   8
+Velocity: 0.00417  Current: 0.690  Initial_C: 2000
+---Smain_Batter_0D---
+Problem: Exp22
+Test:   9
+Velocity: 0.00417  Current: 1.500  Initial_C: 2000
+---Smain_Batter_0D---
+Problem: Exp22
+Test:  10
+Velocity: 0.00417  Current: 0.750  Initial_C: 2000
+---Smain_Batter_0D---
+Problem: Exp22
+Test:  11
+Velocity: 0.00417  Current: 0.500  Initial_C: 2000
+---Smain_Batter_0D---
+Problem: Exp22
+Test:  13
+Velocity: 0.00417  Current: 0.400  Initial_C: 2000
+---Smain_Batter_0D---
+Problem: Exp22
+Test:  14
+Velocity: 0.00417  Current: 0.400  Initial_C: 2000
+---Smain_Batter_0D---
+Problem: Exp22
+Test:  15
+Velocity: 0.00417  Current: 0.500  Initial_C: 2000
+---Smain_Batter_0D---
+Problem: Exp22
+Test:  16
+Velocity: 0.00417  Current: 0.500  Initial_C: 2000
+---Smain_Batter_0D---
+Problem: Exp22
+Test:  17
+Velocity: 0.00417  Current: 1.000  Initial_C: 2000
+---Smain_Batter_0D---
+Problem: Exp22
+Test:  18
+Velocity: 0.00417  Current: 0.500  Initial_C: 2000
+---Smain_Batter_0D---
+Problem: Exp22
+Test:  19
+Velocity: 0.00417  Current: 0.400  Initial_C: 1500
