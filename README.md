@@ -1,5 +1,5 @@
 ## Overview
-This repository provides the dataset for the following papers:
+This repository provides the dataset associated with the following papers. If you use this dataset in your work, please cite them as listed below:
 
 ## Citation
 
