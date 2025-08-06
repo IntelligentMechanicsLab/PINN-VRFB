@@ -1,5 +1,5 @@
 ## Overview
-This repository provides the datasupporting the accompanying paper:
+This repository provides the data supporting the accompanying paper:
 
 ## Citation
 
